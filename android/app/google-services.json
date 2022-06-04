@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956085840540",
+    "project_id": "library-zehra",
+    "storage_bucket": "library-zehra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956085840540:android:b74fb6f8d5940538bb9b59",
+        "android_client_info": {
+          "package_name": "com.example.library_zehra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956085840540-jjig7a3icrtarfn9igffurvp0akvgh4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhLnSbyWSFUKVGMRJWRZXz_TPsYxUne7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956085840540-jjig7a3icrtarfn9igffurvp0akvgh4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
